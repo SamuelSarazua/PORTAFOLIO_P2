@@ -3,7 +3,7 @@ body{
     margin: auto;
     
     display: grid;
-    grid-template-columns: 20rem 1fr;
+    grid-template-columns: 30rem 1fr;
     grid-template-rows: 8rem 1fr 15rem 10rem;
     max-width: 136rem;
 }
