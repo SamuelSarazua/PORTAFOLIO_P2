@@ -11,9 +11,10 @@ html {
 /*Escritorio*/
 @media only screen and (max-width:1920px){
 
-    html{
+    .body{
         max-width: 1920px;
     }
+
 }
 
 /*laptop1*/
@@ -59,7 +60,7 @@ html {
 /*telefono3*/
 @media only screen and (max-width:360px){
 
-    html{
+    .body{
         max-width: 360px;
     }
 }
